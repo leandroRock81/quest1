@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+div {
+    margin: 10px auto;
+    padding: 10px;
+    width: 20%;
+    text-align: center;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+ .moda th {
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #BB86FC;
+}
+.moda td {
+    background-color:  #424250;
+    border: 1px solid black;
+    color: white;
+    padding: 5px;
+}
+
+.casa th {
+    background-color: #00C4B4;
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+}
+.casa td {
+    background-color: #424250;
+    border: 1px solid black;
+    color: white;
+    padding: 10px;
+}
+table {
+    margin: auto;
+}
